@@ -1,3 +1,18 @@
+div.header {
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.header {
+    display: flex;
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    gap: 16px;
+}
+
 .container {
     display: flex;
 }
