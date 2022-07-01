@@ -17,6 +17,7 @@ div.header {
 .header {
     display: flex;
     padding: 30px;
+    color: #E5E7EB;
 }
 
 .header-container {
@@ -29,6 +30,7 @@ div.header {
     display: inline-flex;
     list-style: none;
     gap: 16px;
+    margin-right: 100px;
 }
 
 a {
@@ -104,11 +106,8 @@ padding-right: 30px;
 .main-content-2 {
     font-size: 22px;
     background-color: #3882f6;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    margin: 70px 100px 100px 80px;
     padding: 50px;
-    margin-right: 100px;
-    margin-left: 80px;
     border-radius: 15px;
     color: white;
 }
